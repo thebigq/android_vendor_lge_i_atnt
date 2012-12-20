@@ -10,6 +10,7 @@ PRODUCT_COPY_FILES := \
 PRODUCT_COPY_FILES += \
 	vendor/lge/i_atnt/proprietary/lib/hw/sensors.msm8660.so:system/lib/hw/sensors.msm8660.so \
 	vendor/lge/i_atnt/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
+	vendor/lge/i_atnt/proprietary/etc/firmware/BCM4330B1_002.001.003.0243.0308.hcd:system/etc/firmware/BCM4330B1_002.001.003.0243.0308.hcd \
 	vendor/lge/i_atnt/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
 	vendor/lge/i_atnt/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
 	vendor/lge/i_atnt/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
